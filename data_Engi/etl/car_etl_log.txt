@@ -1,0 +1,16 @@
+2025-06-21 16:08:50: ETL Job Started
+2025-06-21 16:08:50: Extract phase Started
+2025-06-21 16:08:50: Extract phase Ended
+2025-06-21 16:08:50: Transform phase Started
+2025-06-21 16:08:50: Transform phase Ended
+2025-06-21 16:08:50: Load phase Started
+2025-06-21 16:08:50: Load phase Ended
+2025-06-21 16:08:50: ETL Job Ended
+2025-06-21 16:11:53: ETL Job Started
+2025-06-21 16:11:53: Extract phase Started
+2025-06-21 16:11:53: Extract phase Ended
+2025-06-21 16:11:53: Transform phase Started
+2025-06-21 16:11:53: Transform phase Ended
+2025-06-21 16:11:53: Load phase Started
+2025-06-21 16:11:53: Load phase Ended
+2025-06-21 16:11:53: ETL Job Ended
